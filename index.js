@@ -3,4 +3,4 @@ let config = function (req, res, next){
     next();
 }
 
-export default config;
+module.exports = config;
